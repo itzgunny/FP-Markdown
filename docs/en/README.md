@@ -24,5 +24,5 @@ Tiago Micael Dias Gil
 
 > Software Development Methodologies @ 2020
 
-![Image](../logo.png)
+![Image](https://www.ipleiria.pt/wp-content/themes/ipleiria/img/logo_ipl_header.png)
 
